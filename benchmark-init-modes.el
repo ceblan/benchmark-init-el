@@ -207,7 +207,6 @@
         (benchmark-init/tree-mode))))
 
 ;; Obsolete functions
-
 (define-obsolete-function-alias 'benchmark-init/show-durations
   'benchmark-init/show-durations-tabulated  "28.0.50")
 
